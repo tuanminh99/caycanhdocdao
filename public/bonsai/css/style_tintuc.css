@@ -1,0 +1,33 @@
+.hh {
+    margin-top: 10px;
+    border-bottom: 1px solid gray;
+    height: 230px;
+}
+.bt-group{
+	margin: 20px 0px;
+}
+.hh img {
+    width: 240px;
+    height: 200px;
+}
+.card-body {
+    padding: 0px 10px;
+}
+.card1{
+    text-align: left !important;
+    padding: 0px 10px;
+}
+a {
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+}
+.img-content img{
+	width: 100%;
+	margin-top: 14px;
+    height: 257px;
+    margin-bottom: 6px;
+}
+a:hover{
+	text-decoration: none !important;
+}

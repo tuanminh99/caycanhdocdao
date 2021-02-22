@@ -1,0 +1,264 @@
+.img-fluid-sp {
+    margin-top: 14px;
+    margin-bottom: 10px;
+    max-width: 100%;
+    height: 256px;
+}
+.new_product {
+    background: #F3F3F3;
+    display: flex;
+}
+.new_product img {
+    margin-left: -3px;
+}
+.ban_chay {
+    float: left;
+    background: #46AD0E;
+    height: 41px;
+    line-height: 41px;
+    padding-left: 25px;
+    color: white;
+    width: 23%;
+}
+.ban_chay h5{
+  margin-left: 15px;
+}
+.sp_ban_chay img {
+    margin-left: -2px;
+}
+.more {
+    position: relative;
+    left: 66%;
+    line-height: 41px;
+}
+.more a{
+  color: black;
+}
+.more a:hover{
+  text-decoration: none!important;
+  color: blue;
+}
+.row.product {
+    padding: 15px 0px 15px 15px;
+}
+.product-list {
+    margin-left: 45px;
+    width: 90%;
+    padding-left:20px;
+}
+.card-body {
+    padding: 0px 10px;
+    text-ali    gn: center;
+}
+small.text-muted {
+    color: #46AD0E!important;
+}
+.row.list1 {
+    margin-bottom: 9px;
+    margin-right:-10px;
+}
+.row.list1.list11 {
+    margin-top: 20px;
+    margin-bottom: 9px;
+    margin-right:-10px;
+}
+a.btn.btn-light {
+    padding: 2px 20px;
+    margin-top: 5px;
+}
+.row.list2 {
+    margin-top: 20px;
+    margin-right:-10px;
+}
+.product-content img {
+    max-height: 489px;
+    min-width: 263px;
+}
+.result {
+    background: #F4F4F4;
+    padding-bottom: 20px;
+}
+.result h2 {
+    text-align: center;
+    color: #46AD0E;
+    padding-top: 20px;
+}
+.row-container {
+    margin: auto;
+}
+.last-result {
+    width: 12%;
+    margin: auto;
+    margin-top: 20px;
+}
+.comment {
+    margin-top: 30px;
+}
+.content-comment {
+    text-align: center;
+    color: #46AD0E;
+}
+.card{
+    position: relative;
+    margin-top: 15px;
+}
+.show-infor{
+    position: absolute;
+    height: 66%;
+    padding-top: 10px;
+    width: 100%;
+    display: none;
+    /* opacity: 0.8;
+    background: #6bc04b; */
+    text-align: center;
+    z-index: 1;
+}
+.show-infor1{
+    position: absolute;
+    height: 77%;
+    padding-top: 10px;
+    width: 100%;
+    display: none;
+    /* opacity: 0.8;
+    background: #6bc04b; */
+    text-align: center;
+    z-index: 1;
+}
+.show-infor span {
+    font-size: 12px;
+    color: white;
+}
+.show-infor1 span {
+    font-size: 12px;
+    color: white;
+}
+.card:hover .show-infor {
+    display: block;
+}
+.card:hover .show-infor1 {
+    display: block;
+}
+.card:hover {
+    box-shadow: 2px 4px 8px 4px #888888;
+    transition: ease-in-out 0.5s;
+}
+button.btn.btn-light {
+    height: 30px;
+    line-height: 15px;
+    margin-top: 10px;
+    font-size: 13px;
+}
+button.btn.btn-outline-success {
+    width: 125px;
+}
+.customer-review-list {
+    margin-top: 45px;
+}
+.customer-review-message{
+	border: 1px dashed black;
+	width: 330px;
+	position: relative;
+	height: auto;
+	padding: 30px 14px;
+	display: flex;
+	align-items: flex-start;
+}
+.customer-review-message:after{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	border-top: 0px dashed black;
+	border-right: 1px dashed black;
+	border-bottom:1px dashed black;
+	border-left: 0px dashed black;
+	content:'';
+	top: 100%;
+	left: 10%;
+	transform: rotate(45deg);
+	margin-top: -25px;
+	background: white;
+}
+.customer-review-message p{
+	margin-left: 20px;
+}
+.customer-review-info{
+	display: inherit;
+    justify-content: space-between;
+    width: 220px;
+    margin-top: 40px;
+}
+.customer-review-list{
+	margin-top: 45px;
+}
+.customer-review-message:hover{
+	box-shadow: 0px 5px 5px 0px rgba(70,173,14,1);
+}
+.customer-review-message:hover:after{
+	box-shadow: 0px 5px 5px 0px rgba(70,173,14,1);
+}
+.customer-review-info:hover img{
+	box-shadow: 1px 2px 5px 8px rgba(70,173,14,1);
+	border-radius: 100px;
+}
+.col.col-list{
+
+    max-width: 25%;
+    min-width: 25%;
+}
+.card{
+    max-height: 400px;
+    min-height: 300px;
+}
+.container{
+    display: flex;
+    font-family: sans-serif;
+}
+.menu-header {
+    left: -3%;
+}
+.login{
+    width: 48%;
+    font-size: 14px;
+    position: relative;
+    right: -424px;
+    align-items: center;
+}
+.m-r-3{
+    margin-right: 3px;
+}
+.m-l-22{
+    margin-left: 22px;
+}
+.eye{
+    width: 42px;
+    background: #F28902;
+    color: #FFF;
+    float: left;
+    text-align: center;
+    margin: -38px 0 11px 175px;
+    padding: 0 0;
+}
+.eye-product{
+    width: 42px;
+    background: #F28902;
+    color: #FFF;
+    float: left;
+    text-align: center;
+    margin: -38px 0 11px 133px;
+    padding: 0 0;
+}
+.eye-detail-product{
+    width: 42px;
+    background: #F28902;
+    color: #FFF;
+    float: left;
+    text-align: center;
+    margin: -38px 0 11px 204px;
+    padding: 0 0;
+}
+.eye a:hover {
+    background: #3DAA12;
+}
+.card-text2{
+    margin-top: 16px;
+}

@@ -1,0 +1,101 @@
+.f-img-product {
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+.img-content {
+    border-left: 1px solid #F2F2F2;
+    width: 100%;
+}
+.infor-product {
+    margin: auto;
+}
+.link {
+    width: 92%;
+    margin: auto;
+    margin-top: 15px;
+}
+.img-product {
+    width: 40%;
+}
+.row.nth-img {
+    width: 80%;
+    margin: auto;
+}
+.content-product {
+    width: 60%;
+}
+.cost {
+    display: flex;
+    border-bottom: 1px dotted gray;
+    padding:10px 38px;
+}
+.total p {
+    margin-left: 14px;
+}
+.total {
+    margin-left: 30px;
+}
+.cost-product h4 {
+    color: red;
+}
+.btn-outline-secondary .fab.fa-google-plus-g {
+    color: black;
+}
+.name-product {
+    border-bottom: 1px dotted gray;
+    padding:10px 35px;
+}
+.content-pr {
+	border-bottom: 1px dotted gray;
+	padding:10px 0px 0px 35px;
+}
+.section-product{
+	margin-bottom: 40px;
+}
+ p{
+    margin-bottom: 20px !important;
+}
+.background-tab {
+    height: 41px;
+    position: relative;
+    background-color: #46ad0e;
+    width: 97%;
+    margin-top: 46px;
+    margin: auto;
+}
+.nav-tabs{
+	position: absolute;
+	bottom: 0px;
+}
+.nav-tabs a{
+	color: black !important;
+	font-weight: bold;
+}
+.text{
+	margin-top: 64px;
+}
+.text-image{
+	border: 1px solid;
+	border-radius: 5px;
+	height: fit-content;
+    padding: 10px;
+}
+.text-image img{
+	width: 100%;
+}
+#myTabContent {
+    width: 95%;
+    margin: auto;
+}
+.show-infor1{
+    position: absolute;
+    height: 78%;
+    padding-top: 10px;
+    width: 100%;
+    display: none;
+    opacity: 0.8;
+    background: #6bc04b;
+    text-align: center;
+    z-index: 1;
+}
